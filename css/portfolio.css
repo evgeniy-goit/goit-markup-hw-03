@@ -87,6 +87,8 @@
 
 .project-item-kind > img {
   display: block;
+  width: 100%;
+  height: auto;
 }
 
 .project-item-kind:nth-child(n + 4) {
