@@ -120,6 +120,12 @@ main {
   margin-right: 30px;
 }
 
+.occupation-item-list > img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .command {
   background-color: #f5f4fa;
   margin-top: 94px;
